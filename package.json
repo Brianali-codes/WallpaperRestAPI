@@ -1,0 +1,19 @@
+{
+  "name": "my-rest-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Brian Ali",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
